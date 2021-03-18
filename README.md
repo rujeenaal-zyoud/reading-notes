@@ -1,7 +1,7 @@
-# My name is Rujeena alzyoud  I am computer engineer
+# My name is Rujeena alzyoud  I am computer engineer I love coding ,intrested about Deep learning and how enter it with web pages to be more intelligent 
 
 ### This it's my URL in GitHub:
-(rujeenaalzyoud)[https://github.com/rujeenaal-zyoud]
+https://github.com/rujeenaal-zyoud
 
 
 | Assignment   |  Link                 |

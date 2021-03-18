@@ -11,3 +11,4 @@
 
 **There is a steps to designing a script we can use flowcharts to  work all the tasks that make our page more interactive.**
 
+**JavaScript contains the mathematical operators, string operators which can use with numbers.may remember some from math class and  string operator: the+ symbol. It is used to join the strings on either side of it**. 
