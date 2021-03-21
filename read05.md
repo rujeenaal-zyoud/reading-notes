@@ -29,5 +29,8 @@
   2-(||) logical or
   3(!) logical not
 
+  # loops.
+  **The loops mean check the condition that we write using the operators but the diffrent here if the condition is true we run the loop multy time return the same process with change the value and if it's false will not entere the loop our exit from it when will not more true by using (For statement )**
+
 
 
