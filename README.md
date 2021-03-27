@@ -1,8 +1,8 @@
-# My name is Rujeena alzyoud  I am computer engineer I love coding ,intrested about Deep learning and how enter it with web pages to be more intelligent 
+# About me
+ __My name is Rujeena alzyoud  I am computer engineer I love coding ,intrested about Deep learning and how enter it with web pages to be more intelligent__
 
 
-## This it's my URL in GitHub:
-https://github.com/rujeenaal-zyoud
+
 
 ### Code 102 Reading Notes
 
