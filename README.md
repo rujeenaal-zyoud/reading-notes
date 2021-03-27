@@ -26,3 +26,17 @@ https://github.com/rujeenaal-zyoud
 | Assignment   |  Link                    |
 | -----------  | -----------              |
 |read01        | [read01](201/read01.md)  |
+|read02        | [read02](201/read02.md)  |
+|read03        | [read03](201/read03.md)  |
+|read04        | [read04](201/read04.md)  |
+|read05        | [read05](201/read05.md)  |
+|read06        | [read06](201/read06.md)  |
+|read07        | [read07](201/read07.md)  |
+|read08        | [read08](201/read08.md)  |
+|read09        | [read09](201/read09.md)  |
+|read010        | [read010](201/read010.md)|
+|read011        | [read011](201/read011.md)|
+|read012        | [read012](201/read012.md)|
+|read013        | [read013](201/read013.md)|
+|read014        | [read014](201/read014.md)|
+|read015        | [read015](201/read015.md |
