@@ -3,10 +3,12 @@
 ### This it's my URL in GitHub:
 https://github.com/rujeenaal-zyoud
 
+##### code102 
+
 
 | Assignment   |  Link                 |
 | -----------  | -----------           |
-|Lab02a        |  [read01](Lab02a.md)  |
+|lab02a        |  [lab02a](lab02a.md)  |
 | read0a       |[read0a](read0a.md)    |
 | read02a      |  [read02a](read02a.md)|
 | read02b      | [read02b](read02b.md) |
@@ -14,3 +16,13 @@ https://github.com/rujeenaal-zyoud
 | read04       |  [read04](read04.md)  |
 | read05       |  [read05](read05.md)  |
 | read06       |  [read06](read06.md)  |
+
+
+
+
+
+##### code201 . 
+
+| Assignment   |  Link                 |
+| -----------  | -----------           |
+|read01        |  [read01](read01.md)  |
