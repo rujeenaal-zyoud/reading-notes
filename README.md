@@ -1,7 +1,7 @@
 # About me
- __My name is Rujeena alzyoud  I am computer engineer I love coding ,intrested about Deep learning and how enter it with web pages to be more intelligent__
+ __My name is Rujeena alzyoud  I am computer engineer I love coding ,intrested about Deep learning and how enter it with web pages to be more intelligent .__
 
-
+----------------------------------------------------------------------------------------------------------------
 
 
 ### Code 102 Reading Notes
@@ -19,7 +19,7 @@
 | read06       |  [read06](102/read06.md)  |
 
 
-
+---------------------------------------------------------------------------------------------------------------------
 
 
 ### Code 201 Reading Notes 
