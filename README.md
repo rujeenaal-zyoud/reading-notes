@@ -1,9 +1,9 @@
 # My name is Rujeena alzyoud  I am computer engineer I love coding ,intrested about Deep learning and how enter it with web pages to be more intelligent 
 
-### This it's my URL in GitHub:
+## This it's my URL in GitHub:
 https://github.com/rujeenaal-zyoud
 
-##### code102 
+### code102 
 
 
 | Assignment   |  Link                 |
@@ -21,8 +21,8 @@ https://github.com/rujeenaal-zyoud
 
 
 
-##### code201 . 
+### code201 . 
 
-| Assignment   |  Link                 |
-| -----------  | -----------           |
-|read01        |  [read01](read01.md)  |
+| Assignment   |  Link                    |
+| -----------  | -----------              |
+|read01        | [read01](201/read01.md)  |
