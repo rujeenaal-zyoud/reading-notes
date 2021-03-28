@@ -1,6 +1,6 @@
 # TEXT .
 **We will describe the the most text we can do in HTML by using tags**
-- *heading*: *The head by using <h1> to <h6> it mean what the most important title we want and the diffrenet between <h's>  the size of text*
+- *heading*: *The head by using <h1> <h6> it mean what the most important title we want and the diffrenet between <h's>  the size of text*
   
 
 
