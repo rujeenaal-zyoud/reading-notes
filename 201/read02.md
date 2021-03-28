@@ -46,5 +46,19 @@
 *Attribute selectors (select elements based on an attribute or attribute value)
 
 
+# JS
+**The JS it's sequnce of statements that make the our webpage interactive**
+- *In the JS if we want to write a note in code to know what each line mean  by using comment by using multi line comment and single line comment*
+-*We store our data that we need in our code by using **Var** it's mean store the varible that we give value by declaration and we can change the value by write anthore declartion for var and change the value*
+-*We have Datatype it mean what the type of our data that we want to store in var we have Different Datatypr like:numbers (0-9), strings (text), and Boolean values (true or false).*
+-*In JS we have operators for Expressionsto calculate a value.*
+
+
+##### SWITCH STATEMENTS .
+ **switch statement** *starts with a variable called the switch value.*
+ *the switch statement mean we have cases that have alot conditions if case yes then do the statement and if not go to next case* *Each case indicates a possible value for the variable and the code will run if the variable matches that value and at is the same*
+ . 
+
+
 
 
