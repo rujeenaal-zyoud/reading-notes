@@ -24,3 +24,6 @@
 
 
 
+##### SWITCH STATEMENTS in JS.
+ **switch statement** *starts with a variable called and the case call value.*
+ *the switch statement mean we have cases that have alot conditions if case yes then do the statement and if not go to next case* *Each case indicates a possible value for the variable and the code will run if the variable matches that value and at is the same we can have more than 2 case*
