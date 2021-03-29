@@ -20,9 +20,9 @@
  *The contenet (text) in the tags we can determine the position it by using text-align (center,left,right)*
   
   'from the book HTML' :*CSS3 has introduced the ability to create image borders and rounded borders*
+---------------------------------------------------------------------------------
 
-
-
+# JS
 
 ##### SWITCH STATEMENTS in JS.
  **switch statement** *starts with a variable called and the case call value.*
