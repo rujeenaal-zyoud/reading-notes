@@ -15,10 +15,10 @@
 -------------------------------------------------------------------------------------------------
 
 #### element of layout
-1- Content
+- Content
 The layout in this section, often depends on the target users. The most common layout is one (or combining them)
-2- Header
-3- Navigation Menu 
-4- Footer
+- Header
+- Navigation Menu 
+- Footer
 
 ![layout](https://www.positronx.io/wp-content/uploads/2019/11/angular-css-grid-layout-7256-001.jpg)
