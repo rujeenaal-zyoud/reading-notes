@@ -15,7 +15,7 @@
 3.<td> :witch stands for table data
 4.<th> :witch is to represent the heading for either a column or a row 
 
------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
 ###### adding a border, title, and headings
 *In addition to the basic table tags, several options are available for adding additional elements to your table. For example, if you add a border, title, and column headings to the table in the previous section,*
 *We can create a link with table*
