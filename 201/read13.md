@@ -1,7 +1,7 @@
 # THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS
  **Web Storage is used for storing data on the client-side. So the data will be available even when the page is  refreshed.**
 -----------------------------------------------------------------------------------------------
- We have 2 type of storge
+ *We have 2 type of storge*::
 ## Local storage
 **Web storage objects localStorage and sessionStorage allow to save key/value pairs in the browser.**
 **Every browesr have a cookie**
