@@ -16,7 +16,7 @@
 *crate the HTML canvas tage and give it the attrbuite like id,hight,width
 *we must add JS and we can draw line,circle and we can draw a Text,Stroke Text,Draw Linear Gradient,Draw Circular Gradient 
 
-
+-------------------------------------------------------------------------------------------------------
 
 
 ![canvas](https://i.stack.imgur.com/642Ei.png)
