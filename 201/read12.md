@@ -11,9 +11,13 @@
 --------------------------------------------------------------------------------------------------------
 # Canvas
 *Canvas it's element tage in HTML we can use it to crate a chart then modifiy that chart
+
 *The HTML element is used to draw graphics on a web page
+
 *It shows four elements: a red rectangle, a gradient rectangle, a multicolor rectangle, and a multicolor text
+
 *crate the HTML canvas tage and give it the attrbuite like id,hight,width
+
 *we must add JS and we can draw line,circle and we can draw a Text,Stroke Text,Draw Linear Gradient,Draw Circular Gradient 
 
 -------------------------------------------------------------------------------------------------------
