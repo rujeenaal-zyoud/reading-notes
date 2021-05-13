@@ -48,7 +48,7 @@
 
 | Assignment   |  Link                    |
 | -----------  | -----------              |
-|read01        | [read01](301/read01.md)  |
+|read01        | [Introduction to React and Components](301/read01.md)  |
 |read02        | [read02](301/read02.md)  |
 |read03        | [read03](301/read03.md)  |
 |read04        | [read04](301/read04.md)  |
