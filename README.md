@@ -4,7 +4,7 @@
 ----------------------------------------------------------------------------------------------------------------
 
 
-### Code 102 Reading Notes
+### Code 102 Intro to Software Development
 
 
 | Assignment   |  Link                 |
@@ -22,7 +22,7 @@
 ---------------------------------------------------------------------------------------------------------------------
 
 
-### Code 201 Reading Notes 
+### Code 201 Foundations of Software Development
 
 | Assignment   |  Link                    |
 | -----------  | -----------              |
@@ -41,5 +41,28 @@
 |read13        | [read13](201/read13.md)|
 |read14        | [read14](201/read14.md)|
 |read15        | [read15](201/read15.md) |
+---------------------------------------------------------------------------------------------------------------------
+
+
+### Code 301 Intermediate Software Development
+
+| Assignment   |  Link                    |
+| -----------  | -----------              |
+|read01        | [read01](301/read01.md)  |
+|read02        | [read02](301/read02.md)  |
+|read03        | [read03](301/read03.md)  |
+|read04        | [read04](301/read04.md)  |
+|read05        | [read05](301/read05.md)  |
+|read06        | [read06](301/read06.md)  |
+|read07        | [read07](301/read07.md)  |
+|read08        | [read08](301/read08.md)  |
+|read09        | [read09](301/read09.md)  |
+|read10        | [read10](301/read10.md)|
+|read11        | [read11](301/read11.md)|
+|read12        | [read12](301/read12.md)|
+|read13        | [read13](301/read13.md)|
+|read14        | [read14](301/read14.md)|
+|read15        | [read15](301/read15.md) |
 
 ~~Thanksforvisiting~~
+
