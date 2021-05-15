@@ -25,8 +25,8 @@
 
 ### Code 201 Foundations of Software Development
 
-| Assignment   |  Link                    |
-| -----------  | -----------              |
+| Assignment   |  Link                              |
+| -----------  | -----------                         |
 |read01        | [Introductory HTML and JavaScript](201/read01.md)  |
 |read02        | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](201/read02.md)  |
 |read03        | [HTML Lists, CSS Boxes, JS Control Flow](201/read03.md)  |
@@ -42,6 +42,7 @@
 |read13        | [Local Storage](201/read13.md)|
 |read14        | [CSS Transforms, Transitions, and Animations](201/read14.md)|
 |read15        | [What Google Learned About Teams](201/read15.md) |
+
 ---------------------------------------------------------------------------------------------------------------------
 
 
