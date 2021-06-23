@@ -121,3 +121,13 @@ Bear in mind that this questioning process is best suited to simple or moderatel
 
 
 
+![Resume](https://drive.google.com/file/d/1NwR71iC9aXFMxzsQc84pTEXWVeMotkLA/view?usp=sharing)
+
+![Linkedin](https://www.linkedin.com/in/rujeena-alzyoud/)
+
+![GitHub](https://github.com/rujeenaal-zyoud)
+
+![Behavioral questions](https://github.com/rujeenaal-zyoud)
+
+
+
