@@ -16,12 +16,12 @@ refers to a style of programming in which three activities are tightly interwove
 
 -----------------------------------------------------------------------------
 
- #### CI/CD (continuous integration/contiuous delivery)**
+ #### CI/CD (continuous integration/contiuous delivery)
 
 *CI/CD is a method to frequently deliver apps to customers by introducing automation into the stages of app development. The main concepts attributed to CI/CD are continuous integration, continuous delivery, and continuous deployment. CI/CD is a solution to the problems integrating new code can cause for development and operations teams (AKA "integration hell")*
 
 -----------------------------------------------------------------------
- #### Review, Research, and Discussion**
+ #### Review, Research, and Discussion
 
  
 1. ###### what Array.map() does? 
@@ -31,7 +31,7 @@ allows you to iterate over an array and modify its elements using a callback fun
  used to reduce the array to a single value and executes a provided function for each value of the array (from left-to-right) and the return value of the function is stored in an accumulator.
 
 3. code snippets showing how to use superagent to fetch data from URL and log the results.
-
+---------------------------------------------------------------------
 ##### promises
  **let say that we havea code that take some time and another one that depends on the result from the first , here promis is the javascript object that links between the previous codes to work properly.**
 
