@@ -76,8 +76,8 @@
 | Assignment   |  Link                    |
 | -----------  | -----------              |
 |read01        | [Basics for Programmers](401/read01.md)  |
-|read02        | [Express](401/read02.md)  |
-|read03        | [Express REST API.](401/read03.md)  |
+|read02        | [Node Ecosystem, TDD, CI/CD](401/read02.md)  |
+|read03        | [Express.](401/read03.md)  |
 |read04        | [Data Modeling.](401/read04.md)  |
 |read05        | [Linked lists.](401/read05.md)  |
 |read06        | [Authentication.](401/read06.md)  |
