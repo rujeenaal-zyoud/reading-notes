@@ -68,7 +68,33 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------
+
+
+
 ### Code 401 - Advanced Software Development
+
+| Assignment   |  Link                    |
+| -----------  | -----------              |
+|read01        | [Basics for Programmers](401/read01.md)  |
+|read02        | [Express](401/read02.md)  |
+|read03        | [Express REST API.](401/read03.md)  |
+|read04        | [Data Modeling.](401/read04.md)  |
+|read05        | [Linked lists.](401/read05.md)  |
+|read06        | [Authentication.](401/read06.md)  |
+|read07        | [Bearer Authorization.](401/read07.md)  |
+|read08        | [Access Control (ACL).](401/read08.md)  |
+|read09        | [OAuth](401/read09.md)  |
+|read10        | [Event Driven Applications.](401/read10.md)|
+|read11        | [Socket.io.](401/read11.md)|
+|read12        | [Message Queues.](401/read12.md)|
+|read13        | [Event Driven Architecture.](401/read13.md)|
+|read14        | [AWS: Cloud Servers.](401/read14.md)|
+|read15        | [AWS: S3 and Lambda. ](401/read15.md) |
+|read16        | [API, Dynamo and Lambda. ](401/read16.md) |
+|read17        | [AWS: Events. ](401/read17.md) |
+|read18        | [Component Based UI. ](401/read18.md) |
+|read19        | [Props and State. ](401/read19.md) |
+|read20        | [Component Composition. ](401/read20.md) |
 
 ~~Thanksforvisiting~~
 
