@@ -1,6 +1,18 @@
 # Bearer Authorization
 
 
+## Preview
+ 
+### Which 3 things had you heard about previously and now have better clarity on?
+Oauth , and authenction stuff , end point that used in route with auth
+
+### Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
+auth testing it's hard to me and more abot encryption and this stuff
+
+### What are you most excited about trying to implement or see how it works?
+
+the good implemntation it's take a lot of time becuse i don't now what the ecxpeted  
+
 #### Write the following steps in the correct order:
 --------------------------------------------------------
 1. Register your application to get a client_id and client_secret.
