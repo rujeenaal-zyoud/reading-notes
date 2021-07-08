@@ -1,70 +1,40 @@
-# Event Driven Applications
-======================================
+# Stack & Queue 
 
-## Review, Research, and Discussion
-================================
+### what the stack ?
 
-
-**Why is access control important?**
-
-Access controls limit access to information and information processing systems. When implemented effectively, they mitigate the risk of information being accessed without the appropriate authorization, unlawfully and the risk of a data breach.
-
-Describe an application that would need access control.
-Any application needs to be updated to its database will need access control for make the admin to write, update or delete, but for the user will be a limited access maybe just read or sometimes write(news applications).
-=============================
-
-**What is a role used for?**
-
-User Roles are permission sets that control access to areas and features within the Professional Archive Platform. Each User account requires a Role assignment.
-=============================
+*A stack is a data structure that consists of Nodes. Each Node references the next Node in the stack, but does not reference its previous.*
 
 
-**Why is role based access control more scalable than discretionary or mandatory access control?**
+### Stacks follow these concepts:
 
-role based access control is considered to strike a good balance between security and manageability.
+* FILO
+First In Last Out
 
+This means that the first item added in the stack will be the last item popped out of the stack.
 
-=====================================
-## Vocabulary Terms
+* LIFO
+Last In First Out
 
-### Authorization
+This means that the last item
 
-
-**Authorization is the function of specifying access rights/privileges to resources, which is related to general information security and computer security, and to access control in particular.**
-
-### Role Based Access Control
-
-**is an approach to restricting system access to authorized users. It is used by the majority of enterprises with more than 500 employees, and can implement mandatory access control (MAC) or discretionary access control (DAC).**
-
-### Capabilities
-
-**A capability is a communicable, unforgettable token of authority. It refers to a value that references an object along with an associated set of access rights. A user program on a capability-based operating system must use a capability to access an object.**
-
-=======================
-
-## Preparation Materials
-
-**Event-Driven Programming in Node.js**
-
-Every time you interact with a webpage through it’s user interface, an event is happening. When you click a button a click event is triggered. When you press a key a keydown event is triggered. These events have associated functions that, when triggered, are executed to make a change to the user interface in some way.
-
-**Event-Driven Programming makes use of the following concepts**
-
-**An Event Handler is a callback function that will be called when an event is triggered. A Main Loop listens for event triggers and calls the associated event handler for that event.**
+![ing](https://cdn.programiz.com/sites/tutorial2program/files/stack.png)
 
 
-=====================
-
-### EventEmitter
-
-Node.js natively provides us with a useful module called EventEmitter that allows us to get started incorporating Event-Driven Programming in our project right away. Of course, creating our own version of EventEmitter wouldn’t be much of a challenge, and in fact there are several modules published on npm such as EventEmitter2 and EventEmitter3 which promise a faster performance than the native EventEmitter.
-
-*We access the EventEmitter class through the events module. Once imported we’ll need to create a new object from the class to start using it.*
+**push and pop**
+**Pushing a Node onto a stack will always be an O(1) operation. This is because it takes the same amount of time no matter how many Nodes (n) you have in the stack.**
 
 
-============================
-* Much of the Node.js core API is built around an idiomatic asynchronous event-driven architecture in which certain kinds of objects (called "emitters") emit named events that cause Function objects ("listeners") to be called.
 
-* All objects that emit events are instances of the EventEmitter class. These objects expose an eventEmitter.on() function that allows one or more functions to be attached to named events emitted by the object. Typically, event names are camel-cased strings but any valid JavaScript property key can be used.
 
-* When the EventEmitter object emits an event, all of the functions attached to that specific event are called synchronously. Any values returned by the called listeners are ignored and discarded.
+
+## what is queue ?
+
+
+**A Queue is a linear structure which follows a particular order in which the operations are performed. The order is First In First Out (FIFO). A good example of a queue is any queue of consumers for a resource where the consumer that came first is served first. The difference between stacks and queues is in removing. In a stack we remove the item the most recently added; in a queue, we remove the item the least recently added.**
+
+**LIFO & FIFO**
+
+![g](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2014/02/Queue.png)
+
+
+**the all operation enqueue and dequeue ,peek ,isEmpty  all thing O(1)**
